@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>  
 <h3 align="left"><a href='#About' target="_blank">About Me</a></h3> 
 <p>💡&nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br></p>
-<p>👨🏻‍💻&nbsp; Most of my projects are available on Github <br></p>
-<p>🧠&nbsp; I continue to study and improve my web skills <br></p>
+<p>👨🏻‍💻&nbsp; Most of my projects are available on Github. <br></p>
+<p>🧠&nbsp; I continue to study and improve my web skills. <br></p>
 <p>✉️&nbsp; You can shoot me an email at <a>breaz1@yandex.ru</a>! I'll try to respond as soon as I can. <br></p>
 <p>📄&nbsp; Please have a look at my <a href='https://perm.hh.ru/resume/783cc001ff0b9dda8c0039ed1f52794d366141'>resume</a> for more details about me. I'm open to feedback and suggestions! <br></p>
 <br>
