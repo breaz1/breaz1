@@ -2,16 +2,16 @@
 <p align="center">Frontend developer</p>
 <hr/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>  
-<h3 align="left"><a href='#About' target="_blank">About Me</a></h3> 
-<p>💡&nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br></p>
-<p>👨🏻‍💻&nbsp; Most of my projects are available on Github. <br></p>
-<p>🧠&nbsp; I continue to study and improve my web skills. <br></p>
-<p>✉️&nbsp; You can shoot me an email at <a>breaz1@yandex.ru</a>! I'll try to respond as soon as I can. <br></p>
-<p>📄&nbsp; Please have a look at my <a href='https://perm.hh.ru/resume/783cc001ff0b9dda8c0039ed1f52794d366141'>resume</a> for more details about me. I'm open to feedback and suggestions! <br></p>
+<h3 align="left"><a href='#About' target="_blank">Обо мне</a></h3> 
+<p>💡&nbsp; Стараюсь не стоять на месте и учится чему-то новому, разрабатывать различнын web-приложения.<br></p>
+<p>👨🏻‍💻&nbsp; Большинство моих проектов доступны на Github. <br></p>
+<p>🧠&nbsp; Продолжаю учиться и совершенствовать свои навыки работы frontend web. <br></p>
+<p>✉️&nbsp; Вы можете написать мне на почту <a>breaz1@yandex.ru</a>! Я постараюсь ответить, как только смогу. <br></p>
+<p>📄&nbsp; Более подробную информацию обо мне можно найти в моем  <a href='https://perm.hh.ru/resume/783cc001ff0b9dda8c0039ed1f52794d366141'>резюме</a>. Я открыт для отзывов и предложений! <br></p>
 <br>
 <br>
 <hr/>
-<h3 align="left"><a href='#About' target="_blank">Tech Stack</a></h3> 
+<h3 align="left"><a href='#About' target="_blank">Стек</a></h3> 
 <p>
   <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' width="50"/>
   <img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg' width="50"/>
