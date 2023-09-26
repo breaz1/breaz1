@@ -34,7 +34,7 @@
   <img src='https://storage.yandexcloud.net/products/f2el741m8mg5k04tvva7.svg' width="50"/> 
 </p>
 
-<h3 align="center">Мои ссылки</h3>
+<h3 align="center">Мои контакты</h3>
 <p align="center"> 
   <a href="https://discord.com/users/br1zy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a>
